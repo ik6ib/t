@@ -1,0 +1,73 @@
+{
+  "title": "Tsugumomo",
+  "description": "يجد كازويا كاغامي، فتى عادي، حياته تنقلب رأسًا على عقب عندما يتحول حزام والدته الراحلة إلى فتاة ترتدي كيمونو تُدعى كيريها. تصادف أنها تسوكوموغامي، وهي عبارة عن أشياء اكتسبت روحًا عبر سنوات طويلة من الانسجام مع مالكيها. لا يتذكر كازويا لقاءه بكيريها عندما هتفت قائلةً: \"مرحبًا، لم أرك منذ زمن طويل\". يكاد يفقد حياته على يد \"أماسوغي\"، وهي أرواح وُلدت قبل أوانها لتلبية رغبات بعض الأشخاص، فتدافع عنه كيريها. مع وصول كيريها، يدخل كازويا عالمًا يضم آلهة وتسوكوموغامي آخرين، ويكتشف تدريجيًا ماضيه المظلم.",
+  "artist": "Yoshikazu Hamada",
+  "author": "Yoshikazu Hamada",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1766164554",
+      "groups": {
+        "AkatsushinSubs": "/proxy/api/mangadex/chapter/ae749e1e-9573-402e-b461-81d249da2077"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "last_updated": "1766164637",
+      "groups": {
+        "AkatsushinSubs": "https://mangadex.org/chapter/624d79bb-990d-4879-a9b3-2f5dad4044e7/1"
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "1",
+      "last_updated": "1766164658",
+      "groups": {
+        "AkatsushinSubs": "https://mangadex.org/chapter/5c9b6bc8-7b44-49bb-865d-0d2b78cf1ea3/1"
+      }
+    },
+    "4": {
+      "title": "4",
+      "volume": "1",
+      "last_updated": "1766164679",
+      "groups": {
+        "AkatsushinSubs": "https://mangadex.org/chapter/4908c2b7-3fa9-41a4-8829-5110329cd168/1"
+      }
+    },
+    "5": {
+      "title": "5",
+      "volume": "1",
+      "last_updated": "1766164689",
+      "groups": {
+        "AkatsushinSubs": "https://mangadex.org/chapter/2f81feb7-0ada-4403-b3b2-72f3aad4fb66/1"
+      }
+    },
+    "6": {
+      "title": "6",
+      "volume": "1",
+      "last_updated": "1766164709",
+      "groups": {
+        "AkatsushinSubs": "https://mangadex.org/chapter/64c4859e-db47-4c1a-809d-b5fd088b2da0/1"
+      }
+    },
+    "7": {
+      "title": "7",
+      "volume": "1",
+      "last_updated": "1766164727",
+      "groups": {
+        "AkatsushinSubs": "https://mangadex.org/chapter/ae54f35b-4432-4a5b-94f0-f58f3c51b2b8/1"
+      }
+    },
+    "8": {
+      "title": "8",
+      "volume": "1",
+      "last_updated": "1766164744",
+      "groups": {
+        "AkatsushinSubs": "https://mangadex.org/chapter/a37d3108-c043-4e91-9cc3-bbaf4a7336a2/1"
+      }
+    }
+  }
+}
