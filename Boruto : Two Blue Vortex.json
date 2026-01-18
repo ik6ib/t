@@ -3,6 +3,56 @@
   "description": "",
   "artist": "Mikio Ikemoto",
   "author": "Masashi Kishimoto",
-  "cover": "",
-  "chapters": {}
+  "cover": "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/01.webp",
+  "chapters": {
+    "30": {
+      "title": "30",
+      "volume": "",
+      "last_updated": "1768759015",
+      "groups": {
+        "Akatsuhin Subs": [
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/01.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/02.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/03.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/04.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/05.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/06.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/07.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/08.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/09.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/10.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/11.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/12.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/13.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/14.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/15.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/16.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/17.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/18.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/19.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/20.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/21.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/22.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/23.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/24.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/25.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/26.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/27.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/28.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/29.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/30.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/31.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/32.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/33.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/34.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/35.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/36.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/37.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/38.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/39.webp",
+          "https://raw.githubusercontent.com/ik6ib/manga/refs/heads/main/40.webp"
+        ]
+      }
+    }
+  }
 }
