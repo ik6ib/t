@@ -102,11 +102,75 @@
       }
     },
     "13": {
-      "title": "ذكريات و أصدقاء الطفولة",
+      "title": "(2) ذكريات و أصدقاء الطفولة",
       "volume": "3",
       "last_updated": "1769167017",
       "groups": {
         "AkatsushinSubs": "/proxy/api/mangadex/chapter/852acddd-785c-4f86-bb05-9e97262fe74e"
+      }
+    },
+    "14": {
+      "title": "روميرو سبيشال",
+      "volume": "3",
+      "last_updated": "1769167108",
+      "groups": {
+        "AkatsushinSubs": "/proxy/api/mangadex/chapter/f4461f5b-5c0f-4f8b-adcd-86ba69eff3a5"
+      }
+    },
+    "15": {
+      "title": "كاناياما-سان",
+      "volume": "3",
+      "last_updated": "1769167138",
+      "groups": {
+        "AkatsushinSubs": "/proxy/api/mangadex/chapter/08751049-321b-4cc9-8183-5b55fdca1084"
+      }
+    },
+    "16": {
+      "title": "رسالة، الجزء الأول",
+      "volume": "3",
+      "last_updated": "1769167251",
+      "groups": {
+        "AkatsushinSubs": "/proxy/api/mangadex/chapter/61dc3b7d-da14-4433-999a-47d2db149299"
+      }
+    },
+    "17": {
+      "title": "رسالة، الجزء الثاني",
+      "volume": "3",
+      "last_updated": "1769167314",
+      "groups": {
+        "AkatsushinSubs": "/proxy/api/mangadex/chapter/c65f66e3-9f7e-4296-8bc2-59fdd47b6cd3"
+      }
+    },
+    "18": {
+      "title": "رسالة، الجزء الثالث",
+      "volume": "3",
+      "last_updated": "1769167339",
+      "groups": {
+        "AkatsushinSubs": "/proxy/api/mangadex/chapter/4cdbbcbd-cf07-406c-889f-4ed2b8a885c4"
+      }
+    },
+    "15.1": {
+      "title": "كاناياما-سان (صفحات إضافية)",
+      "volume": "3",
+      "last_updated": "1769167221",
+      "groups": {
+        "AkatsushinSubs": "/proxy/api/mangadex/chapter/843ccbe0-80fc-40c0-bbb0-3f67ecfeb662"
+      }
+    },
+    "18.1": {
+      "title": "صفحات إضافية",
+      "volume": "3",
+      "last_updated": "1769167374",
+      "groups": {
+        "AkatsushinSubs": "/proxy/api/mangadex/chapter/bcfb1ce8-7bbb-44c7-b6de-37420041576e"
+      }
+    },
+    "18.6": {
+      "title": "صفحات إضافية (2)",
+      "volume": "3",
+      "last_updated": "1769167404",
+      "groups": {
+        "AkatsushinSubs": "/proxy/api/mangadex/chapter/471dffb1-f581-406b-9468-7ce918aa23f6"
       }
     }
   }
