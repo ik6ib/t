@@ -189,6 +189,30 @@
         "AkatsushinSubs": "/proxy/api/mangadex/chapter/3230a3c6-ec5f-451d-a315-66a79be5f2b5"
       }
     },
+    "24": {
+      "title": "ليلة ما قبل المواجهة",
+      "volume": "5",
+      "last_updated": "1771084669",
+      "groups": {
+        "AkatsushinSubs": "/proxy/api/mangadex/chapter/2f85e8ba-f963-4158-bcf6-6039e0a2da1f"
+      }
+    },
+    "25": {
+      "title": "إلى داخل الحلم",
+      "volume": "5",
+      "last_updated": "1771084719",
+      "groups": {
+        "AkatsushinSubs": "/proxy/api/mangadex/chapter/c29ea0c9-2883-471c-a892-53ac6b2f1397"
+      }
+    },
+    "26": {
+      "title": "سوناو ضد كازويا 1",
+      "volume": "5",
+      "last_updated": "1771084770",
+      "groups": {
+        "AkatsushinSubs": "/proxy/api/mangadex/chapter/4f153323-5149-4fd4-b864-a747f79a17c5"
+      }
+    },
     "15.1": {
       "title": "كاناياما-سان (صفحات إضافية)",
       "volume": "3",
@@ -259,6 +283,14 @@
       "last_updated": "1771069798",
       "groups": {
         "AkatsushinSubs": "/proxy/api/mangadex/chapter/73eda301-053e-45cc-a71f-513aa5382dd6"
+      }
+    },
+    "25.5": {
+      "title": "صفحات إضافية",
+      "volume": "36",
+      "last_updated": "1771084744",
+      "groups": {
+        "AkatsushinSubs": "/proxy/api/mangadex/chapter/30709fcb-6a79-4b4b-88e1-5adf99987d64"
       }
     }
   }
