@@ -213,6 +213,30 @@
         "AkatsushinSubs": "/proxy/api/mangadex/chapter/4f153323-5149-4fd4-b864-a747f79a17c5"
       }
     },
+    "27": {
+      "title": "سوناو ضد كازويا 2",
+      "volume": "5",
+      "last_updated": "1771084831",
+      "groups": {
+        "AkatsushinSubs": "/proxy/api/mangadex/chapter/c3ed734a-1e16-4eba-ac00-3c00b63eb9c0"
+      }
+    },
+    "28": {
+      "title": "سوناو ضد كازويا 3",
+      "volume": "5",
+      "last_updated": "1771084853",
+      "groups": {
+        "AkatsushinSubs": "/proxy/api/mangadex/chapter/df693b87-b2d6-45da-b869-86e83fa13282"
+      }
+    },
+    "29": {
+      "title": "سوناو ضد كازويا 4",
+      "volume": "5",
+      "last_updated": "1771084868",
+      "groups": {
+        "AkatsushinSubs": "/proxy/api/mangadex/chapter/748e0f5d-88d7-4bf2-89aa-03ed74cb54fa"
+      }
+    },
     "15.1": {
       "title": "كاناياما-سان (صفحات إضافية)",
       "volume": "3",
@@ -287,10 +311,26 @@
     },
     "25.5": {
       "title": "صفحات إضافية",
-      "volume": "36",
+      "volume": "5",
       "last_updated": "1771084744",
       "groups": {
         "AkatsushinSubs": "/proxy/api/mangadex/chapter/30709fcb-6a79-4b4b-88e1-5adf99987d64"
+      }
+    },
+    "29.1": {
+      "title": "29.1",
+      "volume": "5",
+      "last_updated": "1771084919",
+      "groups": {
+        "AkatsushinSubs": "/proxy/api/mangadex/chapter/80451534-8c2e-43d3-be89-43e37765dc82"
+      }
+    },
+    "29.5": {
+      "title": "عطر الجاذبية المطلقة",
+      "volume": "5",
+      "last_updated": "1771084935",
+      "groups": {
+        "AkatsushinSubs": "/proxy/api/mangadex/chapter/b1227282-3ee5-44d0-b9b8-f0582612693e"
       }
     }
   }
