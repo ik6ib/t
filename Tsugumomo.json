@@ -237,6 +237,38 @@
         "AkatsushinSubs": "/proxy/api/mangadex/chapter/748e0f5d-88d7-4bf2-89aa-03ed74cb54fa"
       }
     },
+    "63": {
+      "title": "صُلح",
+      "volume": "13",
+      "last_updated": "1772315659",
+      "groups": {
+        "AkatsushinSubs": "/proxy/api/mangadex/chapter/1997f85c-1aae-428e-82cc-79fc58362cca"
+      }
+    },
+    "64": {
+      "title": "طالبة منقولة",
+      "volume": "13",
+      "last_updated": "1772315690",
+      "groups": {
+        "AkatsushinSubs": "/proxy/api/mangadex/chapter/d02ca6cc-2d2a-4bcc-8e6c-fba7f43c8e1f"
+      }
+    },
+    "65": {
+      "title": "السفينة العظيمة",
+      "volume": "13",
+      "last_updated": "1772315708",
+      "groups": {
+        "AkatsushinSubs": "/proxy/api/mangadex/chapter/19920e11-17f7-4e46-80c7-cc2129fd46f1"
+      }
+    },
+    "66": {
+      "title": "معركة القمة",
+      "volume": "13",
+      "last_updated": "1772315735",
+      "groups": {
+        "AkatsushinSubs": "/proxy/api/mangadex/chapter/b6179f8c-1657-4eb4-b28c-5e198a4ea7b5"
+      }
+    },
     "15.1": {
       "title": "كاناياما-سان (صفحات إضافية)",
       "volume": "3",
@@ -331,6 +363,14 @@
       "last_updated": "1771084935",
       "groups": {
         "AkatsushinSubs": "/proxy/api/mangadex/chapter/b1227282-3ee5-44d0-b9b8-f0582612693e"
+      }
+    },
+    "62.5": {
+      "title": "فصل خاص - حياة كاغامي كازويا الخاصة",
+      "volume": "13",
+      "last_updated": "1772315602",
+      "groups": {
+        "AkatsushinSubs": "/proxy/api/mangadex/chapter/4cd6d16f-4343-4189-a4f6-4ede44fd7443"
       }
     }
   }
