@@ -270,7 +270,7 @@
       }
     },
     "67": {
-      "title": "كاناكا 1",
+      "title": "كاناكا (1)",
       "volume": "14",
       "last_updated": "1774385323",
       "groups": {
@@ -310,7 +310,7 @@
       }
     },
     "68": {
-      "title": "كاناكا 2",
+      "title": "كاناكا (2)",
       "volume": "14",
       "last_updated": "1774385488",
       "groups": {
@@ -352,7 +352,7 @@
       }
     },
     "69": {
-      "title": "كاناكا 3",
+      "title": "كاناكا (3)",
       "volume": "14",
       "last_updated": "1774385681",
       "groups": {
@@ -387,7 +387,7 @@
     },
     "70": {
       "title": "كاناكا (4)",
-      "volume": "37",
+      "volume": "14",
       "last_updated": "1785754657",
       "groups": {
         "AkatsushinSubs": [
@@ -419,6 +419,45 @@
           "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2070%2026.png",
           "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2070%2027.png",
           "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2070%2028.png"
+        ]
+      }
+    },
+    "71": {
+      "title": "كاناكا (5)",
+      "volume": "14",
+      "last_updated": "1785754850",
+      "groups": {
+        "AkatsushinSubs": [
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071%201.png",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071%202.png",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071%203.png",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071%204.png",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071%205.png",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071%206.png",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071%207.png",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071%208.png",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071%209.png",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071%2010.png",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071%2011.png",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071%2012.png",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071%2013.png",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071%2014.png",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071%2015.PNG",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071%2016.png",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071%2017.png",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071%2018.png",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071%2019.png",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071%2020.PNG",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071%2021.png",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071%2022.png",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071%2023.png",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071%2024.png",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071%2025.png",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071%2026.png",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071%2027.png",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071%2028.png",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071%2029.PNG",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071%2030.png"
         ]
       }
     },
@@ -1065,6 +1104,26 @@
           "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%20185.2%2015.png",
           "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%20185.2%2016.png",
           "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%20185.2%2017.png"
+        ]
+      }
+    },
+    "71.5": {
+      "title": "صفحات إضافية - إلى داخل الحلم",
+      "volume": "14",
+      "last_updated": "1785755121",
+      "groups": {
+        "AkatsushinSubs": [
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071.5%201.png",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071.5%202.png",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071.5%203.png",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071.5%204.png",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071.5%205.png",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071.5%206.png",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071.5%207.png",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071.5%208.png",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071.5%209.png",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071.5%2010.PNG",
+          "https://raw.githubusercontent.com/ik6ib/Tsugumomo/refs/heads/main/TSUGU%2071.5%2011.PNG"
         ]
       }
     }
